@@ -1,4 +1,6 @@
 {
+    "name": "mprokopov/test-fruits-vegetables",
+    "description": "",
     "require": {
         "phpunit/phpunit": "^9.5"
     },
