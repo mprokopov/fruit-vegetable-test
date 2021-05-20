@@ -1,6 +1,7 @@
 {
     "name": "mprokopov/test-fruits-vegetables",
     "description": "",
+    "license": "MIT",
     "require": {
         "phpunit/phpunit": "^9.5"
     },
